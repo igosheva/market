@@ -13,8 +13,8 @@
   width: 400px;
   margin-left: -200px;
   background: white;
-  border-radius: 6px;
-  padding: 24px;
+  border-radius: 4px;
+  padding: 20px;
 }
 .popup__close {
   position: absolute;
