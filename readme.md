@@ -11,7 +11,6 @@
 ## Основные команды
 
   * `start`
-  * `test`
   * `eslint`
   * `eslintFix`
 
